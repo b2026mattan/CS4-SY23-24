@@ -1,14 +1,14 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package cs4.truth.tan;
+package Exercise_01;
 
 /**
  *
  * @author andrei
  */
-public class CS4TruthTan {
+public class Exercise_01 {
     public static void main(String[] args) {
         FamilyMember mother = new FamilyMember("Mary Jane Tuayon", 49, "Mother");
         mother.DisplayInfo();
